@@ -91,8 +91,9 @@ export default function PrivacyPolicy() {
         <h2>11. Contact Us</h2>
         <p>
           If you have any questions about this Privacy Policy, please contact us
-          at <strong>hello@fashionbhandar.com</strong> or write to us at 42
-          Fashion Street, Mumbai, MH 400050, India.
+          at <strong>hello@fashionbhandar.com</strong> or write to us at
+          Mumbai, Maharashtra — 400104, India.<br />
+          GST No: <strong>27ARVPH9924N1ZQ</strong>
         </p>
       </div>
     </main>

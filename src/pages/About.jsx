@@ -70,7 +70,7 @@ export default function About() {
 
       <section className="team-section">
         <p className="section-label">The People Behind the Brand</p>
-        <h2 style={{ fontSize: "clamp(1.8rem, 4vw, 2.5rem)", fontWeight: 800, color: "var(--primary)", marginTop: "0.5rem" }}>
+        <h2 style={{ fontSize: "clamp(1.8rem, 4vw, 2.5rem)", fontWeight: 800, color: "var(--ink)", marginTop: "0.5rem" }}>
           Meet Our Team
         </h2>
         <div className="team-grid">

@@ -10,6 +10,10 @@ export default function Footer() {
             Redefining contemporary fashion with timeless pieces crafted for
             the modern wardrobe. Quality you can feel, style you can trust.
           </p>
+          <p style={{ color: "rgba(255,255,255,0.45)", fontSize: "0.8rem", lineHeight: 1.7, marginTop: "-0.5rem" }}>
+            📍 Mumbai, Maharashtra — 400104<br />
+            🧾 GST: 27ARVPH9924N1ZQ
+          </p>
           <div className="footer-social">
             {["📘", "📸", "🐦", "📌"].map((icon, i) => (
               <div className="social-link" key={i}>{icon}</div>

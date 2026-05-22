@@ -34,7 +34,7 @@ export default function Shop() {
       </div>
 
       {filtered.length === 0 && (
-        <p style={{ textAlign: "center", color: "var(--text-light)", marginTop: "3rem" }}>
+        <p style={{ textAlign: "center", color: "var(--text-soft)", marginTop: "3rem" }}>
           No products found in this category.
         </p>
       )}

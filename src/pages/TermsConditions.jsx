@@ -91,7 +91,9 @@ export default function TermsConditions() {
         <h2>11. Contact</h2>
         <p>
           For any questions regarding these Terms, please email us at{" "}
-          <strong>hello@fashionbhandar.com</strong>.
+          <strong>hello@fashionbhandar.com</strong> or write to us at
+          Mumbai, Maharashtra — 400104, India.
+          GST No: <strong>27ARVPH9924N1ZQ</strong>
         </p>
       </div>
     </main>

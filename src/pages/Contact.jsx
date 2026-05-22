@@ -24,7 +24,7 @@ export default function Contact() {
             <span className="contact-icon">📍</span>
             <div>
               <h4>Address</h4>
-              <p>42 Fashion Street, Bandra West<br />Mumbai, MH 400050, India</p>
+              <p>Mumbai, Maharashtra<br />Pin Code — 400104, India</p>
             </div>
           </div>
 
@@ -41,6 +41,14 @@ export default function Contact() {
             <div>
               <h4>Email</h4>
               <p>hello@fashionbhandar.com</p>
+            </div>
+          </div>
+
+          <div className="contact-detail">
+            <span className="contact-icon">🧾</span>
+            <div>
+              <h4>GST Number</h4>
+              <p>27ARVPH9924N1ZQ</p>
             </div>
           </div>
 
@@ -67,7 +75,7 @@ export default function Contact() {
             <div className="form-success">
               <p style={{ fontSize: "2rem", marginBottom: "0.75rem" }}>✅</p>
               <p>Thank you for reaching out!</p>
-              <p style={{ fontWeight: 400, color: "var(--text-light)", marginTop: "0.5rem", fontSize: "0.95rem" }}>
+              <p style={{ fontWeight: 400, color: "var(--text-soft)", marginTop: "0.5rem", fontSize: "0.95rem" }}>
                 We'll get back to you within 24 hours.
               </p>
             </div>
