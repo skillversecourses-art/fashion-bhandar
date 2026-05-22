@@ -15,7 +15,7 @@ const marqueeItems = [
 ];
 
 const categories = [
-  { name: "Dresses",  img: U("1674718918254-8f96b77c12d8", 400, 400) },
+  { name: "Dresses",  img: U("1567966456076-905a50a06d8c", 400, 400) },
   { name: "Jackets",  img: U("1551028719-00167b16eac5",   400, 400) },
   { name: "Knitwear", img: U("1532453288672-3a27e9be9efd", 400, 400) },
   { name: "T-Shirts", img: U("1521572163474-6864f9cf17ab", 400, 400) },
