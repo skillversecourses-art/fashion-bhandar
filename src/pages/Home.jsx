@@ -66,7 +66,7 @@ export default function Home() {
           <span className="jacket-label">New Arrival</span>
 
           <div className="hero-jacket-wrap">
-            <img src="/jacket.png" alt="Varsity Jacket" />
+            <img src={`${import.meta.env.BASE_URL}jacket.png`} alt="Varsity Jacket" />
           </div>
 
           <div className="hero-right-badge">

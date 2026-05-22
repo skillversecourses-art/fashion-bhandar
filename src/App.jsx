@@ -15,7 +15,7 @@ import OrderConfirmation from "./pages/OrderConfirmation";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <CartProvider>
         <Navbar />
         <Routes>
