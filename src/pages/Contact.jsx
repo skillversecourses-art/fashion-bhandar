@@ -48,7 +48,7 @@ export default function Contact() {
             <span className="contact-icon">🧾</span>
             <div>
               <h4>GST Number</h4>
-              <p>27ARVPH9924N1ZQ</p>
+              <p>07ARVPH9924N1ZS</p>
             </div>
           </div>
 

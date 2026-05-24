@@ -12,7 +12,7 @@ export default function Footer() {
           </p>
           <p style={{ color: "rgba(255,255,255,0.45)", fontSize: "0.8rem", lineHeight: 1.7, marginTop: "-0.5rem" }}>
             📍 Mumbai, Maharashtra — 400104<br />
-            🧾 GST: 27ARVPH9924N1ZQ
+            🧾 GST: 07ARVPH9924N1ZS
           </p>
           <div className="footer-social">
             {["📘", "📸", "🐦", "📌"].map((icon, i) => (
