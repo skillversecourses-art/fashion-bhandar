@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { CartProvider } from "./context/CartContext";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -15,7 +15,7 @@ import OrderConfirmation from "./pages/OrderConfirmation";
 
 export default function App() {
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <HashRouter>
       <CartProvider>
         <Navbar />
         <Routes>
@@ -32,6 +32,6 @@ export default function App() {
         </Routes>
         <Footer />
       </CartProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
